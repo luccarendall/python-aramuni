@@ -13,8 +13,8 @@ Pensando em todos os números naturais inferiores a 10 que são múltiplos de 3 
 [Resposta](https://github.com/joaopauloaramuni/desafio_crawler/blob/master/logica.py)
 #### 05) API  
 Imagine que você ficou responsável por desenvolver o backend do sistema de uma biblioteca. Crie uma API RESTful para o cadastro, edição, listagem e exclusão dos livros (título, autor, edição) e o controle de entradas e saídas.  
-[Resposta](https://github.com/joaopauloaramuni/desafio_crawler/blob/master/api)
+[Resposta](https://github.com/joaopauloaramuni/python/tree/master/desafio_python/api)
 #### 06) Crawler  
 Crie um crawler (aplicação de busca de informação na web) que leia as 3 primeiras notícias do site g1.globo.com e organize em um JSON contendo o título, subtitulo (se tiver) e url da imagem de destaque (se tiver).
 
-[Resposta](https://github.com/joaopauloaramuni/desafio_crawler/tree/master/crawler)
+[Resposta](https://github.com/joaopauloaramuni/python/tree/master/desafio_python/crawler)
